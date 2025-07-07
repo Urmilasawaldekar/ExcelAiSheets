@@ -46,8 +46,6 @@ A full-stack web application that allows users to upload, analyze, and visualize
 
 ## ⚙️ Getting Started
 
-
-git clone https://github.com/your-username/excel-analytics.git
 cd excel-analytics
 
 cd backend
